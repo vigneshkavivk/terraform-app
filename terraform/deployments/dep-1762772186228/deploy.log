@@ -1,0 +1,12 @@
+[INFO] 2025-11-10T10:56:57.394Z | Deployment started
+Acquiring state lock. This may take a few moments...
+
+[0m[1m[32mNo changes.[0m[1m Your infrastructure matches the configuration.[0m
+
+[0mTerraform has compared your real infrastructure against your configuration
+and found no differences, so no changes are needed.
+Releasing state lock. This may take a few moments...
+[0m[1m[32m
+Apply complete! Resources: 0 added, 0 changed, 0 destroyed.
+[0m
+[INFO] 2025-11-10T10:57:13.641Z | Apply success (exit code: 0)
