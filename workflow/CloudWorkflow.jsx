@@ -512,7 +512,7 @@ resource "aws_sns_topic_subscription" "${topicName}_email_sub" {
 
     const toggleModule = (moduleId) => {
         if (moduleId === "eks") {
-            navigate('/clusters/create');
+            navigate('/sidebar/clusters');
             return;
         }
         setSelectedModules([moduleId]);
